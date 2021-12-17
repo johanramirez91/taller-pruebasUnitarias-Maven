@@ -82,7 +82,7 @@ public class BasicCalculatorTest {
             "2, -4, -0,5",
             "-10, -1, 10",
             "5, 0,",
-            "0, 0 "
+            "0, 0, "
     })
     void severalDivs(Long first, Long second, Long expectedResult) {
         try {
